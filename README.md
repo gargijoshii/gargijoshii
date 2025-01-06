@@ -10,31 +10,32 @@
 ---
 
 ### 🛠️ Languages and Tools:
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-pandas-a-software-library-written-for-the-python-programming-language-logo-shadow-tal-revivo.png" alt="Pandas" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" /></a>
+</p>
+
 
 ---
 
-🌟 **GitHub Stats:**  
-![Gargi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gargijoshii&show_icons=true&theme=radical)
+### 🌟 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gargijoshii&show_icons=true&hide=stars&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 

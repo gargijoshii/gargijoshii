@@ -7,24 +7,23 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/fluency/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" />
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" />
+  <i class="devicon-c-plain" style="font-size: 40px;"></i>
+  <i class="devicon-cplusplus-plain" style="font-size: 40px;"></i>
+  <i class="devicon-python-plain" style="font-size: 40px;"></i>
+  <i class="devicon-html5-plain" style="font-size: 40px; color: #E34F26;"></i>
+  <i class="devicon-css3-plain" style="font-size: 40px; color: #1572B6;"></i>
+  <i class="devicon-javascript-plain" style="font-size: 40px; color: #F7DF1E;"></i>
+  <i class="devicon-nodejs-plain" style="font-size: 40px; color: #339933;"></i>
+  <i class="devicon-mongodb-plain" style="font-size: 40px; color: #47A248;"></i>
+  <i class="devicon-mysql-plain" style="font-size: 40px; color: #4479A1;"></i>
+  <i class="devicon-oracle-original" style="font-size: 40px; color: #F80000;"></i>
+  <i class="devicon-linux-plain" style="font-size: 40px; color: #FCC624;"></i>
+  <i class="devicon-git-plain" style="font-size: 40px; color: #F05032;"></i>
+  <i class="devicon-react-original" style="font-size: 40px; color: #61DAFB;"></i>
+  <i class="devicon-tensorflow-original" style="font-size: 40px; color: #FF6F00;"></i>
+  <i class="devicon-pytorch-original" style="font-size: 40px; color: #EE4C2C;"></i>
 </p>
+
 
 ---
 

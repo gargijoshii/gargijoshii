@@ -3,10 +3,6 @@
 📫 **How to reach me:**  
 - Email: [gargiijoshii@gmail.com](mailto:gargiijoshii@gmail.com)  
 
-💼 **Connect with me:**  
-- GitHub: [gargijoshi](https://github.com/gargijoshii)  
-- LinkedIn: [gargijoshi](https://www.linkedin.com/in/gargiijoshii/)  
-
 ---
 
 ### 🛠️ Languages and Tools:

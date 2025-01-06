@@ -7,23 +7,22 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <i class="devicon-c-plain" style="font-size: 40px;"></i>
-  <i class="devicon-cplusplus-plain" style="font-size: 40px;"></i>
-  <i class="devicon-python-plain" style="font-size: 40px;"></i>
-  <i class="devicon-html5-plain" style="font-size: 40px; color: #E34F26;"></i>
-  <i class="devicon-css3-plain" style="font-size: 40px; color: #1572B6;"></i>
-  <i class="devicon-javascript-plain" style="font-size: 40px; color: #F7DF1E;"></i>
-  <i class="devicon-nodejs-plain" style="font-size: 40px; color: #339933;"></i>
-  <i class="devicon-mongodb-plain" style="font-size: 40px; color: #47A248;"></i>
-  <i class="devicon-mysql-plain" style="font-size: 40px; color: #4479A1;"></i>
-  <i class="devicon-oracle-original" style="font-size: 40px; color: #F80000;"></i>
-  <i class="devicon-linux-plain" style="font-size: 40px; color: #FCC624;"></i>
-  <i class="devicon-git-plain" style="font-size: 40px; color: #F05032;"></i>
-  <i class="devicon-react-original" style="font-size: 40px; color: #61DAFB;"></i>
-  <i class="devicon-tensorflow-original" style="font-size: 40px; color: #FF6F00;"></i>
-  <i class="devicon-pytorch-original" style="font-size: 40px; color: #EE4C2C;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </p>
-
 
 ---
 

@@ -4,8 +4,8 @@
 - Email: [gargiijoshii@gmail.com](mailto:gargiijoshii@gmail.com)  
 
 💼 **Connect with me:**  
-- GitHub: [gargi_joshi](https://github.com/gargijoshii)  
-- LinkedIn: [gargi-joshi-596b95189](https://www.linkedin.com/in/gargiijoshii/)  
+- GitHub: [gargijoshi](https://github.com/gargijoshii)  
+- LinkedIn: [gargijoshi](https://www.linkedin.com/in/gargiijoshii/)  
 
 ---
 

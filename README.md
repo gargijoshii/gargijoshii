@@ -34,7 +34,7 @@
 ---
 
 🌟 **GitHub Stats:**  
-![Gargi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gargi_joshi&show_icons=true&theme=radical)
+![Gargi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gargijoshii&show_icons=true&theme=radical)
 
 ---
 

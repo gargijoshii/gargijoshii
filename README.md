@@ -1,4 +1,4 @@
-# Hi, I'm Gargi Joshi 👋
+
 
 📫 **How to reach me:**  
 - Email: [gargiijoshii@gmail.com](mailto:gargiijoshii@gmail.com)  

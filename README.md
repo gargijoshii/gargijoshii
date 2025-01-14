@@ -53,10 +53,12 @@
 ---
 
 ### 🌟 GitHub Stats:
-<p align="left" style="display: flex; gap: 20px;">
+<p align="left" style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=gargijoshii&show_icons=true&hide=stars&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="GitHub Stats" style="height: 150px; width: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargijoshii&layout=compact&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="Top Languages" style="height: 150px; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargijoshii&theme=default&background=FFFFFF&text_color=000000&hide_border=true" alt="GitHub Streak" style="height: 150px; width: auto;" />
 </p>
+
 
 
 ---

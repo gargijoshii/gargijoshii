@@ -1,4 +1,4 @@
-![github image](github image.png)
+![github image](github_img.png)
 
 
 📫 **How to reach me:**  

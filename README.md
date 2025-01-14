@@ -53,9 +53,9 @@
 ---
 
 ### 🌟 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gargijoshii&show_icons=true&hide=stars&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargijoshii&layout=compact&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="Top Languages" />
+<p align="left" style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gargijoshii&show_icons=true&hide=stars&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargijoshii&layout=compact&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="Top Languages" height="200px" />
 </p>
 
 

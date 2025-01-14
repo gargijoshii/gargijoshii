@@ -3,13 +3,11 @@
 
 📫 **How to reach me:**  
 <a href="mailto:gargiijoshii@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" style="vertical-align:middle; margin-right:15px;"/>
-</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" style="vertical-align:middle;"/>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align:middle;"/>
 </a>
-
-
 
 
 ---

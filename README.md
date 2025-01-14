@@ -2,13 +2,13 @@
 
 
 📫 **How to reach me:**  
-<a href="mailto:gargiijoshii@gmail.com" style="text-decoration:none; margin-right: 10px;">
+<a href="mailto:gargiijoshii@gmail.com" style="text-decoration:none; margin-right: 10px; outline:none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" style="vertical-align:middle;"/>
 </a>
-<a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank" style="text-decoration:none; margin-right: 10px;">
+<a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank" style="text-decoration:none; margin-right: 10px; outline:none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" style="vertical-align:middle;"/>
 </a>
-<a href="https://github.com/gargiijoshii" target="_blank" style="text-decoration:none;">
+<a href="https://github.com/gargiijoshii" target="_blank" style="text-decoration:none; outline:none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" style="vertical-align:middle;"/>
 </a>
 

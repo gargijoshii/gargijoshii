@@ -2,7 +2,13 @@
 
 
 📫 **How to reach me:**  
-- Email: [gargiijoshii@gmail.com](mailto:gargiijoshii@gmail.com)  
+<a href="mailto:gargiijoshii@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="20"/>
+</a>  
+<a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="20"/>
+</a>
+
 
 ---
 

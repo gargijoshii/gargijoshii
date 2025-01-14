@@ -15,7 +15,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/gargiijoshii" target="_blank">
+      <a href="https://github.com/gargijoshii" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30" style="border: none; outline: none;"/>
       </a>
     </td>

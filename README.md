@@ -2,17 +2,25 @@
 
 
 📫 **How to reach me:**  
-<p align="left">
-  <a href="mailto:gargiijoshii@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30" style="border: none; outline: none;"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" style="border: none; outline: none;"/>
-  </a>&nbsp;
-  <a href="https://github.com/gargiijoshii" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30" style="border: none; outline: none;"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="mailto:gargiijoshii@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30" style="border: none; outline: none;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" style="border: none; outline: none;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gargiijoshii" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30" style="border: none; outline: none;"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 

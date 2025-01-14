@@ -3,18 +3,16 @@
 
 📫 **How to reach me:**  
 <p align="left" style="margin: 0; padding: 0;">
-  <a href="mailto:gargiijoshii@gmail.com" style="text-decoration: none;">
+  <a href="mailto:gargiijoshii@gmail.com" style="text-decoration: none; outline: none; border: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank" style="text-decoration: none; outline: none; border: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;
-  <a href="https://github.com/gargiijoshii" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/gargiijoshii" target="_blank" style="text-decoration: none; outline: none; border: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30"/>
   </a>
 </p>
-
-
 
 
 

@@ -6,11 +6,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" style="vertical-align:middle;"/>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/gargiijoshii/" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" style="vertical-align:middle;"/>
 </a>&nbsp;
 <a href="https://github.com/gargiijoshii" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" style="vertical-align:middle;"/>
 </a>
+
 
 
 ---

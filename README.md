@@ -1,7 +1,7 @@
 ![github image](github_img.png)
 
 
-📫 **How to reach me:**  
+📫 **Connect with me:**  
 <table>
   <tr>
     <td>
@@ -19,8 +19,14 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30" style="border: none; outline: none;"/>
       </a>
     </td>
+    <td>
+      <a href="https://medium.com/@gargij" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="30" height="30" style="border: none; outline: none;"/>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 

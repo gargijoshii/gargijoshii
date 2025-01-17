@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools I Have Used:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -52,7 +52,25 @@
 
 ---
 
-### 🌟 GitHub Stats:
+### 📝 Blogs on Power BI 🚀  
+Delve into my insights and tutorials on Power BI:  
+
+1️⃣ **[Building an E-commerce Sales Dashboard in Power BI](https://medium.com/@gargij/building-a-e-commerce-sales-dashboard-in-power-bi-f1b2b7b34b29)**  
+   - Learn how to design and implement a dynamic sales dashboard for e-commerce data analysis.
+
+2️⃣ **[Analyzing and Visualizing Top Amazon Sellers Performance in the Garden Category](https://medium.com/@gargij/analyzing-and-visualizing-top-amazon-sellers-performance-in-the-garden-category-9ffd51fdfa26)**  
+   - Explore techniques to analyze and visualize seller performance using advanced Power BI features.
+
+3️⃣ **[Data Analysis Made Easy: R and Power BI for Linear Regression](https://medium.com/@gargij/data-analysis-made-easy-r-and-power-bi-for-linear-regression-6c623e128703)**  
+   - Combine the power of R and Power BI to perform seamless linear regression analysis.
+
+Stay tuned for more content as I continue to explore the world of data!
+
+---
+
+
+
+### 🌟 My GitHub Stats:
 <p align="left" style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=gargijoshii&show_icons=true&hide=stars&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="GitHub Stats" style="height: 150px; width: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargijoshii&layout=compact&theme=default&bg_color=FFFFFF&text_color=000000&icon_color=4CAF50&hide_border=true" alt="Top Languages" style="height: 150px; width: auto;" />

@@ -55,6 +55,13 @@
 ### 📝 Blogs on Power BI 🚀  
 Delve into my insights and tutorials on Power BI:  
 
+<p align="left">
+  <a href="https://medium.com/@gargij" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="30" height="30" style="vertical-align: middle; margin-right: 10px;"/>
+  </a>
+  Follow me on **[Medium](https://medium.com/@gargij)** for more articles!
+</p>
+
 1️⃣ **[Building an E-commerce Sales Dashboard in Power BI](https://medium.com/@gargij/building-a-e-commerce-sales-dashboard-in-power-bi-f1b2b7b34b29)**  
    - Learn how to design and implement a dynamic sales dashboard for e-commerce data analysis.
 
@@ -67,6 +74,7 @@ Delve into my insights and tutorials on Power BI:
 Stay tuned for more content as I continue to explore the world of data!
 
 ---
+
 
 
 
